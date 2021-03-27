@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/hieu/Final/WeatherApp/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/home/hieu/.gradle/caches/transforms-2/files-2.1/d4237b20dd729d2cc0605d7386bc83e8/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

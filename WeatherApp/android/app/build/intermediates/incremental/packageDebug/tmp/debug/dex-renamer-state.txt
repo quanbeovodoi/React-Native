@@ -1,0 +1,4 @@
+#Sat Dec 28 18:06:57 ICT 2019
+base.0=/home/hieu/Final/WeatherApp/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
